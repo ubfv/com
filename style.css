@@ -102,3 +102,21 @@ b{
   width: 20pc;
  margin-top: -2pc;
 }
+
+p{
+  color: white;
+  font-family: serif;
+  opacity:80%;
+  font-size: 9px;
+}
+
+.music{
+  margin-top: -27pc;
+  margin-left: 15pc;
+  
+}
+input{
+  opacity: 100%;
+  color: rebeccapurple;
+  background-color: red;
+    }
