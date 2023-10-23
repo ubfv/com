@@ -1,0 +1,104 @@
+body {
+    font-size: 15pt;
+    background-image: url("ponny.jpg") ;
+    
+
+
+opacity: 80%;
+
+z-index: 222222;
+
+pointer-events: none;
+
+background-size: contain
+}
+.banner{
+  width: 25.6pc;
+  height: 11pc;
+  margin-top: -9px;
+  right: 0;
+  bottom: 0;
+  margin-left: -7.5px;
+  
+}
+
+.profileimg{
+  height: 8pc;
+  width: 8pc;
+  opacity: 1000%;
+  border-radius: 100%;
+  margin-top: -5pc;
+  
+}
+
+h2{
+  color: #ff0000 ;
+  margin-top: -0.05px;
+  opacity: 1000%;
+  font-size: 25px;
+  margin-left: -5px;
+  text-shadow: 10px 10px 30px #ff0000,5px 5px 10px #ff0000;
+  font-family: serif;
+}
+
+.snow{
+  
+
+position: fixed;
+
+bottom: 0px;
+
+right: 0px;
+
+width: 100%;
+
+height: 100%;
+
+opacity: 50%;
+
+z-index: 22222;
+
+pointer-events: none;
+
+background-size: contain;
+
+}
+
+
+h6{
+  color: #F0F8FF;
+  text-shadow: 10px 10px 30px #F0F8FF,5px 5px 10px #F0F8FF;
+ 
+}
+
+
+ul li{
+  text-align: none ;
+  height: 0pc;
+  margin-left: -3pc;
+  margin-top: -10px;
+}
+
+b{
+  color: #ff0000;
+  font-size: 14px;
+  text-shadow: 10px 10px 30px #ff0000,5px 5px 10px #ff0000;
+  font-family: serif;
+}
+
+.bio{
+  margin-top: 2.3pc;
+}
+
+.vd1{
+  height: 15pc;
+  width: 20pc;
+  margin-top: -2pc;
+  margin-left: -5px;
+  
+}
+.vd2{
+  height: 10pc;
+  width: 20pc;
+ margin-top: -2pc;
+}
